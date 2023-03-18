@@ -1,0 +1,3 @@
+1.No
+2.Yes
+This is because integers are immutable and and lists are mutable in Python. In increment_int_a, it creates a new integer and increments it while in increment_int_b, it modifies the origninal list by incrementing the first value by 1.
